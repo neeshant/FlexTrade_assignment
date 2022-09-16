@@ -67,7 +67,7 @@ export default function Users({ id, name, email, phone, website }) {
     </>
       <Card style={{ margin: 15 }} cover={
         <div style={{  alignItems: 'center' }} >
-          <img style={{ background: '#F5F5F5', minWidth:'100%', width: 200, height: 200 }} src={`https://avatars.dicebear.com/v2/avataaars/{{${name}}}.svg?options[mood][]=happy`} alt="" ></img>
+          <img style={{ background: '#F5F5F5', minWidth:'100%', width: 200, height: 200 }} src={`https://avatars.dicebear.com/v2/avataaars/{{${id}}}.svg?options[mood][]=happy`} alt="" ></img>
         </div>
       }
       actions={[
