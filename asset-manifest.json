@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FlexTrade_assignment/static/css/main.00e2ddd1.css",
-    "main.js": "/FlexTrade_assignment/static/js/main.c86f0670.js",
+    "main.js": "/FlexTrade_assignment/static/js/main.a7ac5ef2.js",
     "index.html": "/FlexTrade_assignment/index.html",
     "main.00e2ddd1.css.map": "/FlexTrade_assignment/static/css/main.00e2ddd1.css.map",
-    "main.c86f0670.js.map": "/FlexTrade_assignment/static/js/main.c86f0670.js.map"
+    "main.a7ac5ef2.js.map": "/FlexTrade_assignment/static/js/main.a7ac5ef2.js.map"
   },
   "entrypoints": [
     "static/css/main.00e2ddd1.css",
-    "static/js/main.c86f0670.js"
+    "static/js/main.a7ac5ef2.js"
   ]
 }
